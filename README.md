@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/38169440/167544015-c9c5767b-5581-465f-b234-d6db6ded8d5e.png)
 ![image](https://user-images.githubusercontent.com/38169440/167544189-d7867c71-ea0c-4767-a81c-ca139c5b6718.png)
 
-# Hello universe! #
+# Hello Internet! #
 ~$ *Graduando em Análise e Desenvolvimento de Sistemas*
 <br>
 ~$ *Estudante de Desenvolvimento Web Front-end*
