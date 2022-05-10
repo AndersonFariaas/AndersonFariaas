@@ -18,6 +18,8 @@
   <img align="center" alt="And-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="And-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="And-LinuxMint" height="40" width="40" src="https://img.icons8.com/color/344/linux-mint.png">
+  <img align="center" alt="And-KaliLinux" height="40" width="40" src="https://img.icons8.com/plasticine/344/kali-linux.png">
 </div>
 
 <br>
