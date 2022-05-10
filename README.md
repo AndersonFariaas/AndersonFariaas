@@ -1,15 +1,20 @@
+### Hello Internet! ###
+# I'm Anderson Farias #
+
 <div style="display: inline_block">
   <img align="center" src="https://user-images.githubusercontent.com/38169440/167544299-98b560db-96fa-4709-803a-6c7cb7dc6d10.png">
   <img align="center" src="https://user-images.githubusercontent.com/38169440/167544015-c9c5767b-5581-465f-b234-d6db6ded8d5e.png">
   <img align="center" src="https://user-images.githubusercontent.com/38169440/167544189-d7867c71-ea0c-4767-a81c-ca139c5b6718.png">
 </div>
 
-# Hello Internet! #
-~$ *Graduando em Análise e Desenvolvimento de Sistemas*
 <br>
-~$ *Estudante de Desenvolvimento Web Front-end*
-<br>
-~$ *Estudante de Segurança Cibernética*
+
+  ~$ *Graduating in Systems Analysis and Developmet*
+  <br>
+  ~$ *Front-end web development student*
+  <br>
+  ~$ *CyberSecurity Student*
+
 <br>
 
 <div style="display: inline_block">
@@ -29,4 +34,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonFariaas&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonFariaas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
