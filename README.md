@@ -9,12 +9,12 @@
 
 <br>
 
-  ~$ *Graduating in Systems Analysis and Developmet*
-  <br>
-  ~$ *Front-end web development student*
-  <br>
-  ~$ *CyberSecurity Student*
-
+    ~$ Graduating in Systems Analysis and Developmet
+    <br>
+    ~$ Front-end web development student
+    <br>
+    ~$ CyberSecurity Student
+  
 <br>
 
 <div style="display: inline_block">
