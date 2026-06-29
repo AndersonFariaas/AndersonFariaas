@@ -8,10 +8,8 @@
 </div>
 
 <br>
-
-    ~$ Graduating in Systems Analysis and Developmet
    
-    ~$ Front-end web development student
+    ~$ System development student
     
     ~$ CyberSecurity Student
 
